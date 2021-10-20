@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="wareHouse.AddClients" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAABAAAACAAAACAAIYAAggAAAAAAAAAAA=</HashCode>
+      <FileName>AddClients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.AddEmpl" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAQAAKAgABAEAACAGIACAAI4AAgkABAAAAAACAA=</HashCode>
+      <FileName>AddEmpl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.AddPost" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAABAAAACAAAACAAAZAABIAAAAIAAAAAA=</HashCode>
+      <FileName>AddPost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.AddProd" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACCAAACAAAYAAACAAAAAAAAIAA=</HashCode>
+      <FileName>AddProd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.AddPt" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACCAAACAAAYAAACAAAAAAAAIAA=</HashCode>
+      <FileName>AddPt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.CountProd" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACIEAAQAAACAAAICAAAAAACAAAAAgAAAAAg=</HashCode>
+      <FileName>CountProd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.DellEmpl" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAARAAAACAAAAyAAAAAAoAAAAAAAAAAAA=</HashCode>
+      <FileName>DellEmpl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.delPostavk" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>delPostavk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.delProd" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>delProd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.DelPt" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DelPt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.editEmpl" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAKAggBAAAACAAAACAAIYAAggAAAAAAAAAAA=</HashCode>
+      <FileName>editEmpl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.editPostavki" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCAAAYAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>editPostavki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.editProd" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAABAAAACCAAACAAAYAAACAAAAAAAAIAA=</HashCode>
+      <FileName>editProd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.editPt" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCAAAYAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>editPt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.EditSale" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCIAAYAAABEAAAAAAAAAA=</HashCode>
+      <FileName>EditSale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.FormAuth" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAACAAABAEAACACIACEAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>FormAuth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.FormFull" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EDCFAEQIKqqCgJAmAICYEICiDMw/gkYIwHAPgqAtTgA=</HashCode>
+      <FileName>FormFull.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.FormLim2" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAACCCAAIBQCBQCCAAAmAAAIAABIAUAABhAAAAA=</HashCode>
+      <FileName>FormLim2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.FormLimited" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAKAAQRAAAkOCAICChMQoggYIAHAAQACpBAA=</HashCode>
+      <FileName>FormLimited.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.Program" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.slEmpl" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQACAEAAEAAACAAAQCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>slEmpl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSet" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAyAAAAJBBACAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSet1" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgwAAAAJABAAARAAAAAgCwBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSet2" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAIJABAAAQAAAAAgGQBwAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.Properties.Settings" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAQAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlServerTypes.Utilities" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SqlServerTypes\Loader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSetTableAdapters.slEmplTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSet1TableAdapters.CountProdTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSet2TableAdapters.CountProductTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wareHouse.wareHouseDataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
